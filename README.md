@@ -3,7 +3,7 @@
 # CMDR-Bench Pipeline Evaluation Framework
 
 [![Project Page](https://img.shields.io/badge/CMDR-Website-green?logo=googlechrome&logoColor=green)](https://cmdr-bench.github.io/)
-[![CMDR Paper](https://img.shields.io/badge/CMDR-arXiv%202025-b31b1b?logo=arxiv&logoColor=red)](xxx)
+[![CMDR Paper](https://img.shields.io/badge/CMDR-arXiv%202026-b31b1b?logo=arxiv&logoColor=red)](xxx)
 [![Dataset (CMDR-Bench)](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-CMDRBench-yellow)](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Bench)
 [![Dataset (CMDR-Synth)](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-CMDRSynth-yellow)](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Synth)
 [![Conference](https://img.shields.io/badge/ECCV-2026-blue)](https://eccv.ecva.net/)
@@ -18,6 +18,13 @@ This repository includes the CMDR-Bench introduced by the following paper: Ryota
 # 📢 News
 - [2025/07]: The technical report, code, and data for CMDR-Bench are all available online.
 - [2025/06]: 🎉 CMDR is accepted to ECCV 2026.
+
+<a name="dataset creation"></a>
+# 📚 Dataset 
+[CMDR-Bench](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Bench) meticulously designed to challenge and evaluate multimodal document retrieval models with tasks demanding multi-page reasoning and multimodal document retrieval. Additionally, [CMDR-Synth](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Synth) provides a large scale synthetic query-page pairs for training contextual multimodal retrieval models. For more detailed information, please refer to our Hugging Face datasets:
+
+- 🤗 [CMDR-Bench Dataset](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Bench)
+- 🤗 [CMDR-Synth Dataset](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Synth)
 
 <a name="installation"></a>
 # ⚙️ Installation
