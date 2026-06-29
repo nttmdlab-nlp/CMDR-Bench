@@ -1,0 +1,7 @@
+torch==2.4.0
+flash-attn==2.7.4.post1       
+peft==0.17.1
+accelerate==0.32.0
+transformers==4.51.0 # for ColPali
+#transformers==4.46.2 # for ColQwen
+
