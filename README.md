@@ -3,13 +3,13 @@
 # CMDR-Bench Pipeline Evaluation Framework
 
 [![Project Page](https://img.shields.io/badge/CMDR-Website-green?logo=googlechrome&logoColor=green)](https://cmdr-bench.github.io/)
-[![CMDR Paper](https://img.shields.io/badge/CMDR-arXiv%202026-b31b1b?logo=arxiv&logoColor=red)](xxx)
+[![CMDR Paper](https://img.shields.io/badge/CMDR-arXiv%202026-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2607.05927)
 [![Dataset (CMDR-Bench)](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-CMDRBench-yellow)](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Bench)
 [![Dataset (CMDR-Synth)](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-CMDRSynth-yellow)](https://huggingface.co/datasets/NTT-hil-insight/CMDR-Synth)
 [![Conference](https://img.shields.io/badge/ECCV-2026-blue)](https://eccv.ecva.net/)
 </div>
 
-This repository includes the CMDR-Bench introduced by the following paper: Ryota Tanaka, Taku Hasegawa, and Kyosuke Nishida. [CMDR: Contextual Multimodal Document Retrieval](xxx). In Proc. of ECCV 2026.
+This repository includes the CMDR-Bench introduced by the following paper: Ryota Tanaka, Taku Hasegawa, and Kyosuke Nishida. [CMDR: Contextual Multimodal Document Retrieval](https://arxiv.org/abs/2607.05927). In Proc. of ECCV 2026.
 
 <p align="center"><img width=900 src="assets/cmdr-bench.png"/></p>
 
